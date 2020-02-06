@@ -1,3 +1,4 @@
 #!/bin/bash
 nombre=$1
 echo ${nombre}
+echo ${BRANCH_NAME}
